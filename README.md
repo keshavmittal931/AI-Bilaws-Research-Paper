@@ -1,2 +1,8 @@
-# AI-Bilaws-Research-Paper
-This paper introduces AI Bylaws as a framework for ethical AI governance. It evaluates AI responses to sensitive prompts, finding strong safety compliance but gaps in reasoning. The study highlights the need for structured rules to ensure fairness, transparency, and responsible AI use.
+Name:- Keshav Mittal RollNumber:-2210991784
+Name:- Kartik Kumar RollNumber:-2210991757
+Name:- Jopanpreet Singh RollNumber:-2210991725
+Name:- Jasnoor Kaur RollNumber:-2210991704
+
+Porject Title:- AI Bylaws: A Framework for Ethical Governance
+Project Type:- Research Paper
+Current Status:- Published
